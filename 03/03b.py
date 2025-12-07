@@ -10,7 +10,6 @@ if __name__ == "__main__":
 
     score = 0
     for battery in battery_strings:
-        print(battery)
         result = 0
 
         for i in range(TARGET_LENGTH):
